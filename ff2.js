@@ -1,2 +1,2 @@
 console.log("CAAAAAAAAAAs");
-main1
+m1
