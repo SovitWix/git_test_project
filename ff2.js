@@ -1,2 +1,2 @@
 console.log("CAAAAAAAAAAs");
-mn1
+mn2
