@@ -1,11 +1,2 @@
 console.log("CAAAAAAAAAAs");
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
+ch1
